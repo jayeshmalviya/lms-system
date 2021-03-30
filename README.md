@@ -153,4 +153,4 @@ The project uses MySQLi as of now, to integrate the connections use the followin
 Project Development <b>FINISHED SUCCESSFULLY</b>
 
 
-BY ~ Shreya Vaidya
+BY ~ Jayesh Malviya
